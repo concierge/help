@@ -1,0 +1,7 @@
+{
+  "Displays this help":"Displays this help",
+  "Prints a short summary of all available commands with help":"Prints a short summary of all available commands with help",
+  "Prints help for a specific module":"Prints help for a specific module",
+  "No help found": "Cannot provide help on module that was not found. Has it been disabled?",
+  "Multiple different help results": "More than one module has the same name. Please fix this before continuing."
+}
