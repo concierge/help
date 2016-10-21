@@ -1,8 +1,9 @@
 {
 	"name": "help",
-	"version": 2.0,
+	"version": 3.0,
 	"startup": "help.js",
-	"priority": "first",
+  "priority": "first",
+  "command":  "help",
 	"help": [
         ["{{commandPrefix}}help", "Displays this help", "Prints a short summary of all available commands with help"],
         ["{{commandPrefix}}help <query>", "Prints help for a specific module"]
