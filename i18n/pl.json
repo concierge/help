@@ -1,0 +1,7 @@
+{
+  "Displays this help": "Wyświetla niniejszą pomoc",
+  "Prints a short summary of all available commands with help": "Wyświetla krótkie podsumowanie wszystkich dostępnych komend",
+  "Prints help for a specific module": "Wyświetla pomoc dla konkretnego modułu",
+  "No help found": "Nie można dostarczyć pomocy dotyczącej modułu, który nie został znaleziony. Czy został on wyłączony?",
+  "Multiple different help results": "Więcej niż jeden moduł ma taką samą nazwę. Rozwiąż ten problem przed kontynuacją."
+}
