@@ -1,6 +1,6 @@
 {
     "name": "help",
-    "version": 4.0,
+    "version": 4.1,
     "startup": "help.js",
     "priority": "first",
     "command": "help",
